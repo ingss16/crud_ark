@@ -1,2 +1,2 @@
-# crud_ark
-arkademy tugas CRUD sederhana
+# CRUD_ark
+tugas CRUD arkademy
